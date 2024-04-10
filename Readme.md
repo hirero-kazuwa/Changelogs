@@ -1,7 +1,36 @@
-![Changelog](https://i.imgur.com/c9asWG8.jpeg)
+![Changelog](https://i.imgur.com/kbuDKB5.png)
 
 <h3 align="center"> Project Elixir All Version Update Changelog </h3> 
 <br>
+
+### v4.2 | 11 April, 2024 | Android 14
+```
+- Merged latest April Security patch
+- CTS and play integrity passes and banking apps are working fine
+- Re-Designed About Phone Settings UI
+- Exclusive : Add few new Depth iOS style clocks
+- Exclusive : Re-Designed Essence Settings UI
+- Re-Designed whole Elixir UI with little tweaks
+- Face Unlock and UDFPS animation added back
+- Updated Game Space to the latest source
+- Add optional haptic feedback to volume panel
+- Implement cutout force full screen
+- Add minimal support for Richtap vibrations
+- Allow scheduling always on display
+- Long press power button to toggle flashlight
+- Add toggle to enable brightness slider haptic feedback
+- Add lawnchair back on user demand - Ask your maintainer to enable it
+- Added toggle to enable higher fps in games
+- Unlimited backup on Google photos is enabled by default
+- Essence: Add preference for Flash Notification
+- Added back most of the customization that was present before QPR 
+- Re-Based whole source from scratch so long list
+- Added a hell lot of stuff checkout full changelog
+- Much More, Try by yourself
+```
+> [!Important]
+> - For fixing play integrity: Open Updater, click on 'Update PlayIntergrity Fp' then clear play store data and reboot once
+
 
 ### v4.1 | 18 February, 2024 | Android 14
 ```
