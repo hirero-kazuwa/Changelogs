@@ -2,6 +2,12 @@
 
 ### Project Elixir for Redmi Note 12 5G / POCO X5 5G (stone) Changelogs
 
+### v4.2 stone
+
+```
+- Synced latest Elixir v4.2 changes
+```
+
 ### v4.1 stone
 
 ```
