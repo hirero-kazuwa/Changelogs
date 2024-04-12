@@ -2,6 +2,14 @@
 
 ### Project Elixir for Xiaomi MI 9 SE (grus) Changelogs
 
+### v4.2 grus
+```
+- Switch to Pixel Launcher
+- Merge patches from upstream f2fs-stable for Twilight Kernel(f2fs)
+- Fix some known issues
+- Synchronize April Security patch
+```
+
 ### v4.1 grus
 ```
 - Switch to Twilight Kernel
