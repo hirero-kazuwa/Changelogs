@@ -2,12 +2,13 @@
 
 ### Project Elixir for Poco X3 Pro (vayu/bhima) Changelogs
 
-### v4.1 vayu/bhima
+### v4.2 vayu/bhima
 ```
-- changed to lawnchair launcher
-- fixed device not booting to system
-- fixed system updater strings
-- reduced the size of zip
+-fixed some apps was not able to access storage
+-enabled FUSE
+-reduced the size of the zip && switch from full gapps to core
+-updated kernel to 4.14.341
+-april security patch
 
 ```
 
