@@ -2,6 +2,12 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo/willow) Changelogs
 
+### v4.2
+```
+1. 5th April 2024 Security patch.
+2. Merged QPR2 & underhood fixes.
+```
+
 ### v4.1
 ```
 1. Fixed statusbar clock position.
