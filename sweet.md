@@ -2,6 +2,24 @@
 
 ### Project Elixir for Redmi Note 10 Pro/Pro Max (sweet/sweetin) Changelogs
 
+### v4.2 sweet/sweetin
+
+```
+- April SPL
+- Dirty flashing from Android 13 now works without breaking Wi-Fi (Only 20 -> 21 was tested with the migration script)
+- Dropped libinit
+- Dropped Automated DC Dimming
+- Avoid delay for vblank disable from DRM
+- Cleaned up libqti-perfd-client
+- Update CarrierConfigOverlay from sweet_k6a OS1.0.2.0.THGMIXM
+- Switch to android.hardware.usb@1.3-service.dual_role_usb
+- Switch to AIDL NXP NFC HAL
+- Parts: Switch to SwitchPreferenceCompat
+- libqti-perfd-client: Clean up
+- Merge Tag '4.14.341' in Kernel
+- Switch to Strix Kernel
+```
+
 ### v4.1 sweet/sweetin
 
 ```
