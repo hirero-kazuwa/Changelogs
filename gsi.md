@@ -2,6 +2,15 @@
 
 ### Project Elixir for Generic System Image (gsi) Changelogs
 
+### Project-Elixir v4.2 build
+```
+** CLEAN FLASH MANDATORY **
+- Sync with latest TrebleDroid sources
+
+> Note:
+Google has dropped support for 4.14 kernels with march SPL hence most phones with kernel 4.14 and below will fail to boot v4.2 unless patches have been done to kernel.
+```
+
 ### Initial v4.0 build
 ```
 - May not boot on certain mediateks or exynos at this time, try at your own risk
