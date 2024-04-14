@@ -6,7 +6,6 @@
 
 ```
 - April SPL
-- Dirty flashing from Android 13 now works without breaking Wi-Fi (Only 20 -> 21 was tested with the migration script)
 - Dropped libinit
 - Dropped Automated DC Dimming
 - Avoid delay for vblank disable from DRM
@@ -17,7 +16,7 @@
 - Parts: Switch to SwitchPreferenceCompat
 - libqti-perfd-client: Clean up
 - Merge Tag '4.14.341' in Kernel
-- Switch to Strix Kernel
+- Lots of other misc. changes
 ```
 
 ### v4.1 sweet/sweetin
