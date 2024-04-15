@@ -2,6 +2,16 @@
 
 ### Project Elixir for Moto Edge 30 Ultra/X30 Pro (eqs) Changelogs
 
+### v4.2 eqs
+```
+- Fixed rare camera crash while on prolonged video calls
+- Fixed 8K video recording in stock camera
+- Fixed incoming sms bug
+- Switched to Pixel Launcher
+- Fixed some bugs from previous build
+- Synchronize april security patch
+```
+
 ### v4.1 eqs
 ```
 - Added Viper4Android driver (App not included)
