@@ -2,6 +2,13 @@
 
 ### Project Elixir for Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn/haydnin) Changelogs
 
+### v4.2 haydn
+```
+- Based on April 2024 Security Patch
+- Improved Smoothness
+- Improved Touch Responsiveness
+- Added Dobly
+```
 ### v4.0 haydn
 ```
 - Intial Android 14 Release
