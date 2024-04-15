@@ -56,7 +56,7 @@
 <br>
 
 > [!Important]
-> **Credits: A very special thanks to Arian, Zaid, Zohaib, itsshashanksp, Adarsh & Aryannn999, Project Elixir and TEAM**
+> **Credits: A very special thanks to Arian, Zaid, Zohaib, itsshashanksp, UnmoveD, Adarsh & Aryannn999, Project Elixir and TEAM**
 > * **Donate**: [Do consider donating or buying us a coffee](https://projectelixiros.com/donate)
 > * Android 14 Recovery Link : [Tap here for link](https://projectelixiros.com/download)
 > * Any Extra File link if required : [Tap Here for link](https://sourceforge.net/projects/project-elixir/files/fourteen)
