@@ -2,6 +2,20 @@
 
 ![Changelog](https://i.imgur.com/MsgqFFz.png)
 
+### v4.2 - Begonia Changelogs
+```
+- Upstreamed Kernel to v4.14.341-openela 
+- Shifed to Lawnchair Launcher
+- Fixed random BT heaphones disconnections
+- Switched to OSS wpa_supplicant
+- Remove deprecated trust HAL
+- Fixed more untrusted app denials
+- Added google velvet back(ok google fixed)
+- Silence OpenGLRenderer logspam
+- Fixup notification LED capabilities Config Values
+- Enabled Mtk_pq 
+- Silence OpenGLRenderer logspam	
+```
 ### v4.1 - Begonia Changelogs
 ```
 - Added MiuiLeica Cam
@@ -27,7 +41,7 @@
 <br>
 
 > [!Important]
-> **Credits: A very special thanks to Project Elixir and TEAM & @KimtKamt & @Brainless_intellectual**
+> **Credits: A very special thanks to Project Elixir and TEAM**
 > * **Donate**: [Do consider donating or buying us a coffee](https://projectelixiros.com/donate)
 > * Android 14 Recovery Link : [Tap here for link](https://projectelixiros.com/download)
 > * Any Extra File link if required : [Tap Here for link](https://sourceforge.net/projects/project-elixir/files/fourteen)
