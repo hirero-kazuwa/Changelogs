@@ -1,11 +1,13 @@
-![Changelog](https://i.imgur.com/MsgqFFz.png)
+![Changelog](https://i.imgur.com/kbuDKB5.png)
 
 ### Project Elixir for POCO F2 Pro (lmi) Changelogs
 
-### v4.1
+### v4.2
 
 ```
-- AOSP WFD doesn't support protected Wi-Fi Display buffers
+- Adapt XiaomiParts to QPR2
+- sepolicy: Replace isolated_app with isolated_app_all
+- switch to Leica Beta 7.2 hotfix 3
 ```
 
 <br>
