@@ -2,6 +2,11 @@
 
 ### Project Elixir for Xiaomi MI 9 SE (grus) Changelogs
 
+### v4.2 HotFix grus
+```
+- Fix random reboot issue
+```
+
 ### v4.2 grus
 ```
 - Switch to Pixel Launcher
