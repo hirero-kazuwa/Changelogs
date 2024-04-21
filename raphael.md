@@ -2,6 +2,36 @@
 
 ### Project Elixir for Redmi K20 Pro/Mi 9T Pro (Raphael/in) Changelogs
 
+### v4.2
+
+```
+- Remove zram fstab
+- Make less cores available for background tasks
+- Silence OpenGLRenderer log spam
+- Clean-Up useless log spam
+- Build android.media.audio.common.types-V2-cpp
+- Update vendor.audio-hal service configuration
+- Clean up libqti-perfd-client
+- Remove obsolete config_keyboardTapVibePattern
+- Use the fragment for QTI vibrator HAL
+- Update vibration settings
+- Drop haptic level adjustment
+- Import qcom-caf thermal HAL
+- Fix battery drain due to statsd
+- Fully drop mi_thermal (It's summertime, so expect complaints about slow charging. Let's drop it.)
+- Parts: Apply layout to parts in system page
+- Enable battery cycle count
+- Update uclamp tune to waffle kernel
+- Adapt waffle kernel for QPR2 changes (69 bpf patches)
+- Switch to android.hardware.usb@1.3-service.dual_role_usb
+- Don't explicitly include updatable_apex.mk
+- Parts: Enable use_resource_processor for all sysui deps
+- Parts: Convert to SwitchPreferenceCompat
+- Parts: Migrate to CompoundButton.OnCheckedChangeListener
+- Add BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- Many more fixes and changes here and there
+```
+
 ### v4.1
 
 ```
@@ -49,7 +79,7 @@
 <br>
 
 > [!Important]
-> **Credits: A very special thanks to - Barny NATO66613, itzdfplayer, BULLA & Project Elixir & TEAM**
+> **Credits: A very special thanks to - Amir, itzdfplayer, BULLA, ඞ Rian, Croesus,  Silent Boy & Project Elixir & TEAM**
 > * **Donate**: [Do consider donating or buying us a coffee](https://projectelixiros.com/donate)
 > * Android 14 Recovery Link : [Tap here for link](https://projectelixiros.com/download)
 > * Any Extra File link if required : [Tap Here for link](https://sourceforge.net/projects/project-elixir/files/fourteen)
