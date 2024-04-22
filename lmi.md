@@ -2,12 +2,10 @@
 
 ### Project Elixir for POCO F2 Pro (lmi) Changelogs
 
-### v4.2
+### v4.2 Hotfix
 
 ```
-- Adapt XiaomiParts to QPR2
-- sepolicy: Replace isolated_app with isolated_app_all
-- switch to Leica Beta 7.2 hotfix 3
+- switch to previous Leica camera
 ```
 
 <br>
