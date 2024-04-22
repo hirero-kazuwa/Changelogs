@@ -2,17 +2,14 @@
 
 ### Project Elixir for Asus ZenFone Max Pro M1 Changelogs
 
-### v4.1 - X00TD Changelogs
+### v4.2 - X00TD Changelogs
 ```
-- Based on Febvuary 2024 Security Patch
-- Shipped with Lawnchair
-- Added Parrot GCam as default camera 
-- Disable HWUI's Skia tracing
-- Removed legacy verity support
-- Dropped imsdaemon
-- Fixed qti_power_hal
-- Fixed Fingerprint issues on social media apps
-- Fixed Calling issues
+- Based on April 2024 Security Patch
+- Shipped with Android 14 Beta Lawnchair
+- Switched to Basic USB HAL
+- Better Audio Improvements
+- Added Zenfone Parts
+- Removed some deprecated HALs
 - CTS passed by default
 - Some misc improvements and fixes
 ```
@@ -22,7 +19,7 @@
 > [!Important]
 > **Credits: A very special thanks to Project Elixir & TEAM**
 > * **Donate**: [Do consider donating or buying us a coffee](https://projectelixiros.com/donate)
-> * Android 14 Recovery Link : [Tap here for link](https://projectelixiros.com/download)
+> * Android 14 Recovery Link : [Tap here for link](https://t.me/ZFMaxProM1Cloud/1100)
 > * Any Extra File link if required : [Tap Here for link](https://sourceforge.net/projects/project-elixir/files/fourteen)
 
 <br>
