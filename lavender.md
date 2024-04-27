@@ -2,6 +2,19 @@
 
 ### Project Elixir for Redmi Note 7 (lavender) Changelogs
 
+### v4.2
+### CLEAN FLASH MANDATORY ###
+- Add BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- Disable frame rate override feature
+- Initial QPR2 build
+- Replace isolated_app with isolated_app_all
+- rootdir: Fix the battery drain due to statsd
+- Switched to FBEv2 enhanced encryption
+- Update libbase include path
+- Use the common device compatibility matrix from QCOM
+- Use the new auto network selection UI
+
+
 ### v4.1
 ```
 - lavender: Build lineage health HAL
