@@ -2,6 +2,12 @@
 
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
+### v4.2 (hotfix) | Realme 5 Series (r5x)
+- This update fixes some known issues
+- improves system stability
+- User Interface Enhancement
+- Fixed some app opening issue
+
 ### v4.2 | Realme 5 Series (r5x)
 ```
 - Initial v4.2 Stable Release
