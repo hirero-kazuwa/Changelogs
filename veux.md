@@ -2,6 +2,17 @@
 
 ### Project Elixir for Poco X4 Pro 5G/Redmi Note 11E Pro 5G/Redmi Note 11 Pro/Pro+ 5G (veux/peux) Changelogs
 
+### v4.2 Changelog:
+```
+- Comes with April Security Patch.
+- MiUi Cam is shpped and is fully functional.
+- Synced with the latest source changes.
+- CTS passes by default.
+- NFC works for all varients
+- Added OnePlus Dolby and is fully functional.
+- Many More Misc. Fixes and Changes.
+```
+
 ### v4.1 Changelog:
 ```
 - Comes with Feburary Security Patch.
