@@ -2,7 +2,7 @@
 
 ### Project Elixir for Redmi K40/POCO F3/Mi 11x (alioth) Changelogs
 
-### v4.1 Redmi K40/POCO F3/Mi 11x (alioth)
+### v4.2 Redmi K40/POCO F3/Mi 11x (alioth)
 
 ```
 - Initial Build
