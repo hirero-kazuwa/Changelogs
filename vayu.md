@@ -2,13 +2,11 @@
 
 ### Project Elixir for Poco X3 Pro (vayu/bhima) Changelogs
 
-### v4.2 vayu/bhima
+### v4.3 vayu/bhima
 ```
--fixed some apps was not able to access storage
--enabled FUSE
--reduced the size of the zip && switch from full gapps to core
--updated kernel to 4.14.341
--april security patch
+-updated kernel to 4.14.342
+-merged may security update
+-(still no miui camera as the dev's busy)
 
 ```
 
